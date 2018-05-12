@@ -1,0 +1,39 @@
+_repo: '-----_27217'
+_version: 0.1.0
+alternative_title: Niu lang zhi nü zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhu, Mingshi
+    aliases:
+    - 宋無
+    - Chu, Ming-shih
+    - Cuihandaoren
+    - Sung, Wu
+    - 朱明世
+    - Zhu, Xiyan
+    - Sung, Tzu-hsu
+    - Song, Wu
+    - Chu, Hsi-yen
+    - 宋无
+    - 朱名世
+    birthdate: 1260
+    deathdate: 1340
+    gutenberg_agent_id: '32548'
+    url: http://www.gutenberg.org/2009/agents/32548
+description: ''
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27217'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction'
+- !lcc 'PL'
+title: 牛郎織女傳
+url: http://www.gutenberg.org/ebooks/27217
